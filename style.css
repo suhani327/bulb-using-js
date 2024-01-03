@@ -1,0 +1,31 @@
+.bulb{
+    border-radius: 50%;
+    border: 5px solid black;
+    height: 60px;
+    width: 60px;
+    position:relative;
+    left: 40px;
+}
+button{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+#bulb{
+    border-radius: 50%;
+    border: 5px solid black;
+    height: 60px;
+    width: 60px;
+    position:relative;
+    top: 20px;
+    left: 40px;
+}
+.buttons{
+    position: relative;
+    top: 40px;
+    left: 20px;
+    margin: 30px;
+    height: 30px;
+    width: 30px;
+    font-weight:bold;
+}
